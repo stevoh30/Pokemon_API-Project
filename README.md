@@ -1,5 +1,6 @@
 # Pokemon_API-Project
-Fun project to learn more about how API works and gain familiarity with different concepts and practices. 
+Fun project performs pokemon mock battles by randomizing numbers to generate pokemon data through an API called PokeAPI. Combat consists of data retrieved from the API based off strengths and weaknesses and randomizing damage numbers to calculate a winner. 
+(Project will be updated in the future adding more features)
 
 # Learned
  - Improved familiarity with API concepts
