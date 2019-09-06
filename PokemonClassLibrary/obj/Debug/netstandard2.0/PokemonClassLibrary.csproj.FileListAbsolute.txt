@@ -1,0 +1,9 @@
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\bin\Debug\netstandard2.0\PokemonClassLibrary.deps.json
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\bin\Debug\netstandard2.0\PokemonClassLibrary.dll
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\bin\Debug\netstandard2.0\PokemonClassLibrary.pdb
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.AssemblyInfo.cs
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.dll
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.pdb
+C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.csprojAssemblyReference.cache
