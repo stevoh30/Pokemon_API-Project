@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Computer Science Courses\\Side-Projects\\PokemonAPI_Project\\PokemonClassLibrary\\PokemonClassLibrary.csproj",
+      "projectUniqueName": "D:\\Computer Science Courses\\Side-Projects\\Pokemon_API-Project\\Pokemon_API-Project\\PokemonClassLibrary\\PokemonClassLibrary.csproj",
       "projectName": "PokemonClassLibrary",
-      "projectPath": "D:\\Computer Science Courses\\Side-Projects\\PokemonAPI_Project\\PokemonClassLibrary\\PokemonClassLibrary.csproj",
+      "projectPath": "D:\\Computer Science Courses\\Side-Projects\\Pokemon_API-Project\\Pokemon_API-Project\\PokemonClassLibrary\\PokemonClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Stev-\\.nuget\\packages\\",
-      "outputPath": "D:\\Computer Science Courses\\Side-Projects\\PokemonAPI_Project\\PokemonClassLibrary\\obj\\",
+      "outputPath": "D:\\Computer Science Courses\\Side-Projects\\Pokemon_API-Project\\Pokemon_API-Project\\PokemonClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

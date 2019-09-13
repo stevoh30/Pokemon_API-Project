@@ -204,14 +204,14 @@ namespace PokemonAPI_Project
             if (health1 > health2)
             {
                 MessageBox.Show(BattlePokemon[1].name + " has been defeated!", "Announcer :");
-                pictureBox2.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\red-x.png");
+                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.red_x;
                 trainer1.WinsStreak += 1;
                 pokemonwinner = 1;
             }
             else if (health2 > health1)
             {
                 MessageBox.Show(BattlePokemon[0].name + " has been defeated!", "Announcer :");
-                pictureBox1.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\red-x.png");
+                pictureBox1.Image = PokemonAPI_Project.Properties.Resources.red_x;
                 trainer2.WinsStreak += 1;
                 pokemonwinner = 2;
             }
@@ -257,19 +257,19 @@ namespace PokemonAPI_Project
         {
             if (pokemonwinner == 1)
             {
-                p1.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\check1.png");
-                p2.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\red-x.png");
+                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.check1;
+                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.red_x;
 
             }
             else if (pokemonwinner == 2)
             {
-                p1.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\red-x.png");
-                p2.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\check1.png");
+                pictureBox1.Image = PokemonAPI_Project.Properties.Resources.red_x;
+                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.check1;
             }
             else
             {
-                p1.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\red-x.png");
-                p2.Load("C:\\Users\\Stev-\\Desktop\\PokemonAPI_Project\\PokemonAPI_Project\\Images\\red-x.png");
+                pictureBox1.Image = PokemonAPI_Project.Properties.Resources.red_x;
+                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.red_x;
             }
         }
         private void ResetVariables()

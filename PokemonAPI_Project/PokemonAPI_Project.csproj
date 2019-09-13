@@ -108,6 +108,7 @@
     <Content Include="Images\check1.png" />
     <Content Include="Images\images.png" />
     <Content Include="Images\red-x.png" />
+    <Content Include="Resources\red-x.png" />
     <None Include="Resources\check1.png" />
     <None Include="Resources\images.png" />
   </ItemGroup>
