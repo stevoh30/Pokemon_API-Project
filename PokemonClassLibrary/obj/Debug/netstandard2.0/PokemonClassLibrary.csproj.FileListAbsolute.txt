@@ -7,3 +7,12 @@ C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstand
 C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.dll
 C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.pdb
 C:\Users\Stev-\Desktop\PokemonAPI_Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.csprojAssemblyReference.cache
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\bin\Debug\netstandard2.0\PokemonClassLibrary.deps.json
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\bin\Debug\netstandard2.0\PokemonClassLibrary.dll
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\bin\Debug\netstandard2.0\PokemonClassLibrary.pdb
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.csprojAssemblyReference.cache
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.csproj.CoreCompileInputs.cache
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.AssemblyInfoInputs.cache
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.AssemblyInfo.cs
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.dll
+D:\Computer Science Courses\Side-Projects\Pokemon_API-Project\Pokemon_API-Project\PokemonClassLibrary\obj\Debug\netstandard2.0\PokemonClassLibrary.pdb

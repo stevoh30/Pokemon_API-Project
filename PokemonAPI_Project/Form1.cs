@@ -257,19 +257,19 @@ namespace PokemonAPI_Project
         {
             if (pokemonwinner == 1)
             {
-                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.check1;
-                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.red_x;
+                p1.Image = PokemonAPI_Project.Properties.Resources.check1;
+                p2.Image = PokemonAPI_Project.Properties.Resources.red_x;
 
             }
             else if (pokemonwinner == 2)
             {
-                pictureBox1.Image = PokemonAPI_Project.Properties.Resources.red_x;
-                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.check1;
+                p1.Image = PokemonAPI_Project.Properties.Resources.red_x;
+                p2.Image = PokemonAPI_Project.Properties.Resources.check1;
             }
             else
             {
-                pictureBox1.Image = PokemonAPI_Project.Properties.Resources.red_x;
-                pictureBox2.Image = PokemonAPI_Project.Properties.Resources.red_x;
+                p1.Image = PokemonAPI_Project.Properties.Resources.red_x;
+                p2.Image = PokemonAPI_Project.Properties.Resources.red_x;
             }
         }
         private void ResetVariables()
